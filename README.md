@@ -12,6 +12,7 @@ Multi-source Heterogeneous Domain Adaptation with Conditional Weighting Adversar
 * matplotlib
 * scikit_learn
 * CUDA 8.0
+* cudnn 6.0
 
 ## Step-by-step Installation
 
