@@ -31,7 +31,7 @@ $ conda install matplotlib
 
 # Datasets
 
-You can download the example dataset from [here](), and put in root directory.
+You can download the example dataset from [here](), and put in the folder of datasets.
 
 # Running
 
