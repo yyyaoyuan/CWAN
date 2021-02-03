@@ -11,6 +11,18 @@ import utils
 tf.set_random_seed(1234)
 #-----------------------------------------#
 # read mat files
+#-----------------------------------------#
+#source_exp = [ad.SArD, ad.SClR, ad.SArD, ad.SPrR, ad.SClD, ad.SPrR, ad.SArS, ad.SClR, ad.SArS, ad.SPrR, ad.SClS, ad.SPrR, ad.SArS, ad.SClD, ad.SArS, ad.SPrD, ad.SClS, ad.SPrD]
+#target_exp = [ad.TReS, ad.TReS, ad.TReS, ad.TReD, ad.TReD, ad.TReD, ad.TReR, ad.TReR, ad.TReR]
+#results_name = 'Office-Home'
+#----------------------------------------------#
+#source_exp = [ad.SAD, ad.SDR, ad.SAD, ad.SWR, ad.SWD, ad.SDR, ad.SAS, ad.SDR, ad.SAS, ad.SWR, ad.SWS, ad.SDR, ad.SAS, ad.SDD, ad.SAS, ad.SWD, ad.SWS, ad.SDD]
+#target_exp = [ad.TWS, ad.TDS, ad.TAS, ad.TWD, ad.TDD, ad.TAD, ad.TWR, ad.TDR, ad.TAR]
+#results_name = 'Office31'
+#----------------------------------------------#
+# source_exp = [ad.E, ad.F, ad.E, ad.G, ad.E, ad.I, ad.F, ad.G, ad.F, ad.I, ad.G, ad.I]
+# target_exp = [ad.S5, ad.S5, ad.S5, ad.S5, ad.S5, ad.S5]
+# results_name = 'multi-lingual'
 #-----------------------------------------------------#
 source_exp = [ad.SAD, ad.SDR]
 target_exp = [ad.TWS]
