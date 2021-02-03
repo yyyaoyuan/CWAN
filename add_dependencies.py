@@ -1,4 +1,4 @@
-OF = 'Datasets/Office31'
+OF = 'datasets/Office31'
 #----------------------------------------------------------------#
 # Office31 Datasets
 SAD = OF + '/Source_A31_DeCAF6.mat'
