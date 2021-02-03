@@ -33,6 +33,8 @@ $ conda install matplotlib
 
 You can download the example dataset from [here](https://pan.baidu.com/s/1-SuuuOFkC-sQ9z8_fq3zZg) (Password: 8i7c), and put in the folder of datasets.
 
+All of the datasets can be downloaded from [here](https://pan.baidu.com/s/1lkSIsNRQJg6i5KffM1mxRg) (Password: 4y1q).
+
 # Running
 
 1. You can run this code by inputing: 
