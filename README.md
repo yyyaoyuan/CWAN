@@ -26,7 +26,6 @@ $ conda install cudnn=6.0
 $ conda install scipy
 $ conda install matplotlib
 $ conda install scikit-learn
-$ conda install matplotlib
 ```
 
 # Datasets
