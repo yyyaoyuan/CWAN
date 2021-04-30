@@ -17,15 +17,15 @@ Multi-source Heterogeneous Domain Adaptation with Conditional Weighting Adversar
 ## Step-by-step Installation
 
 ```
-$ conda create -n cwan python=3.6
-$ conda activate cwan
+conda create -n cwan python=3.6
+conda activate cwan
 
-$ pip install tensorflow-gpu==1.4
-$ conda install cudatoolkit=8.0
-$ conda install cudnn=6.0
-$ conda install scipy
-$ conda install matplotlib
-$ conda install scikit-learn
+pip install tensorflow-gpu==1.4
+conda install cudatoolkit=8.0
+conda install cudnn=6.0
+conda install scipy
+conda install matplotlib
+conda install scikit-learn
 ```
 
 # Datasets
