@@ -56,17 +56,13 @@ target_exp = [ad.TWS]
 
 If you find this helpful, please cite:
 ```
-@article{DBLP:journals/corr/abs-2008-02714,
-  author    = {Yuan Yao and
-               Xutao Li and
-               Yu Zhang and
-               Yunming Ye},
-  title     = {Multi-source Heterogeneous Domain Adaptation with Conditional Weighting
-               Adversarial Network},
-  journal   = {CoRR},
-  volume    = {abs/2008.02714},
-  year      = {2020},
-  url       = {https://arxiv.org/abs/2008.02714},
-  archivePrefix = {arXiv},
-}
+@ARTICLE{9530273,
+  author={Yao, Yuan and Li, Xutao and Zhang, Yu and Ye, Yunming},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Multisource Heterogeneous Domain Adaptation With Conditional Weighting Adversarial Network}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/TNNLS.2021.3105868}}
 ```
